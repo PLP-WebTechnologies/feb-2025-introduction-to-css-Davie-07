@@ -1,0 +1,45 @@
+/* Define a class for a general styling */
+.text-center {
+    text-align: center;
+    color: white;
+    font-family: "Arial", sans-serif;
+    margin-top: 20px;
+  }
+
+  body{
+    background-color: black;
+    color: white;
+  }
+  
+  /* Define an ID for a specific styling */
+  #header {
+    background-image: url(codehour.jpg);
+    padding: 10px;
+    border: 1px solid steelblue;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  /* Define a class for images */
+  .image-style {
+    border: 1px solid green;
+    padding: 3px;
+    margin: -6px;
+    padding-top: 20px;
+    border-radius: 4px;
+    height: 50px;
+    width: 50px;
+    mix-blend-mode: hard-light;
+  }
+
+  .awareness{
+    color: red;
+    font-weight: bold;
+    font-size: 15px;
+  }
+
+ ul li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+  }
